@@ -1,0 +1,12 @@
+📦todoApp
+ ┣ 📂controller
+ ┃ ┣ 📜todo.controller.js
+ ┃ ┗ 📜user.controller.js
+ ┣ 📂instance
+ ┃ ┗ 📜data.db
+ ┣ 📂model
+ ┃ ┗ 📜todoLIst.model.js
+ ┣ 📂router
+ ┃ ┣ 📜todolist.router.js
+ ┃ ┗ 📜user.router.js
+ ┗📜index.js
